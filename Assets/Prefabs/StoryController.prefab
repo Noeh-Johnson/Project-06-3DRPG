@@ -414,6 +414,7 @@ GameObject:
   m_Component:
   - component: {fileID: 434261065717358738}
   - component: {fileID: 5350021669353879737}
+  - component: {fileID: 3965066054308843525}
   m_Layer: 0
   m_Name: StoryController
   m_TagString: Untagged
@@ -450,3 +451,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: 27
+--- !u!114 &3965066054308843525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7809610077671754483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c9893d2ef93df42b7351ac534456af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inkJSONAsset: {fileID: 4900000, guid: 419fb9d9f2a9cba4497ccf84af83777f, type: 3}
+  canvas: {fileID: 0}
+  textPrefab: {fileID: 11456674, guid: c4b4f05436753c94b84191e69728e76b, type: 3}
+  buttonPrefab: {fileID: 11455116, guid: 6c8279ff4d5feef49b248e9d33441418, type: 3}
